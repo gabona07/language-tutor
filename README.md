@@ -14,11 +14,16 @@ In this app you can add language cards to practice with. If you don't provide th
 ## 1. Add words (with or without translation)
 
 <p float="left">
-  <img src="https://im3.ezgif.com/tmp/ezgif-3-00d20c3cc5c5.gif" width="400" height="700" />
-  <img src="https://im3.ezgif.com/tmp/ezgif-3-1e3b49f54816.gif" width="400" height="700" />
+  <img src="https://github.com/gabona07/language-tutor/blob/main/README%20Files/gif1.gif" width="400" height="700" />
+  <img src="https://github.com/gabona07/language-tutor/blob/main/README%20Files/gif2.gif" width="400" height="700" />
 </p>
 
 
 ## 2. Take quizzes
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-eda2972f264e.gif" width="400" height="700" />
+<img src="https://github.com/gabona07/language-tutor/blob/main/README%20Files/gif3.gif" width="400" height="700" />
+
+
+## 3. Get a percentage result with a list of words that need to be practiced
+
+<img src="https://github.com/gabona07/language-tutor/blob/main/README%20Files/img1.jpg" width="400" height="700" />
